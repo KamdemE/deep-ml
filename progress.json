@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T20:42:38.501Z",
+  "generated_at": "2026-09-25T20:43:41.856Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -88,7 +88,7 @@
       "url": "https://www.deep-ml.com/problems/1085",
       "path": "problems/1085-best-meeting-point-on-a-2d-grid",
       "first_solved_at": "2026-09-25T20:42:36.963Z",
-      "last_pushed_at": "2026-09-25T20:42:36.963Z",
+      "last_pushed_at": "2026-09-25T20:43:40.241Z",
       "language": "python",
       "lines": 27
     }

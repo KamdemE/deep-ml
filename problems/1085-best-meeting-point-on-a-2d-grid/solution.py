@@ -17,7 +17,7 @@ def best_meeting_point(grid):
             if grid[i][j]==1:
                 X.append(i)
                 Y.append(j)
-    if len(X)==0 and len(Y)==0:
+    if len(X)==0:
         return 0
     m_x=mode_ou_mediane(X)
     m_y=mode_ou_mediane(Y)
