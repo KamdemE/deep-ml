@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T19:38:19.841Z",
+  "generated_at": "2026-09-25T20:42:38.501Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -76,6 +76,19 @@
       "path": "problems/0647-hamming-distance-for-kanerva-coding",
       "first_solved_at": "2026-09-25T19:38:18.401Z",
       "last_pushed_at": "2026-09-25T19:38:18.401Z",
+      "language": "python",
+      "lines": 27
+    },
+    "problem:1085": {
+      "kind": "problem",
+      "id": "1085",
+      "title": "Best Meeting Point on a 2D Grid",
+      "difficulty": "medium",
+      "category": "Algorithms",
+      "url": "https://www.deep-ml.com/problems/1085",
+      "path": "problems/1085-best-meeting-point-on-a-2d-grid",
+      "first_solved_at": "2026-09-25T20:42:36.963Z",
+      "last_pushed_at": "2026-09-25T20:42:36.963Z",
       "language": "python",
       "lines": 27
     }
