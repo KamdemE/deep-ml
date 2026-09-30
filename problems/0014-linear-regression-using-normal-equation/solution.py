@@ -4,4 +4,4 @@ def linear_regression_normal_equation(X: list[list[float]], y: list[float]) -> l
 	Y=np.array(y)
 	A=np.linalg.inv(np.transpose(X)@X)
 	theta=A@np.transpose(X)@Y
-	return theta
+	return np.round(theta, decimals=4)
